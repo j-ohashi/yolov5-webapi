@@ -1,3 +1,15 @@
+# YOLOv5 🚀 Based Web API (Flask App)
+
+Web API using YOLOv5 as a backend.  
+The following two scripts were added.
+- app.py
+- detector.py
+
+Flask is required to run (added in requirements.txt)
+```
+python app.py
+```
+-----
 <div align="center">
   <p>
     <a align="center" href="https://ultralytics.com/yolov5" target="_blank">
